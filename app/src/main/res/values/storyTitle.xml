@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>The story of an hour</item>
+        <item>The blur</item>
+        <item>Astronaut Annie</item>
+        <item>THe Night Knights </item>
+        <item>Pillowland</item>
+        <item>Night Night, Jungle</item>
+    </string-array>
+
+
+
+</resources>

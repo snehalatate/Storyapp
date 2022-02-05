@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://picsum.photos/id/1060/536/354?blur=2</item>
+        <item>https://picsum.photos/seed/picsum/536/354</item>
+        <item>https://picsum.photos/seed/picsum/536/354</item>
+        <item>https://picsum.photos/id/1060/536/354?blur=2</item>
+        <item>https://picsum.photos/id/1060/536/354?blur=2</item>
+        <item>https://picsum.photos/id/1060/536/354?blur=2</item>
+
+
+    </string-array>
+</resources>
